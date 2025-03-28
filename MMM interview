@@ -1,0 +1,31 @@
+I have been interviewed for the SFE MMM Role at IQVIA.
+
+Interview Questions:
+General Questions:
+Introduction – Briefly introduce yourself.
+
+What kind of models have you delivered?
+
+You mentioned using a Kalman Filter approach. Can you explain why you chose that over traditional ML models?
+
+How do you determine which campaign is more effective? How do you assess media campaign effectiveness?
+
+Explain how you measure the increase in ROI from campaigns.
+
+Describe saturation curves and their significance.
+
+Explain optimization within an MMM context. Can it be done using any ML model?
+
+How do you handle correlation in MMM?
+
+Why do we need MMM in the first place?
+
+Technical Questions:
+Python: Find the count of the most frequent words, string comprehension-related questions.
+
+SQL: How do you impute missing values in a department column?
+
+Excel: What is the difference between MATCH and VLOOKUP?
+
+Behavioural Question:
+Suppose we have four machines producing 10-gram coins. However, one of the machines produces defective coins (slightly different weight). How would you identify the defective machine?
